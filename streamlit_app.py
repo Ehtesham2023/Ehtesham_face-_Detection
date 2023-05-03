@@ -20,8 +20,7 @@ st.title("Face Detection App By Ehtesham")
 st.header("Security App for Homes")
 
 # Render the h1 block, contained in a frame of size 700x100.
-components.html("<html><body><h3>The Advantages of Face Recognition Technology Improved Public Security , Fast and Non-Invasive Identity Verification ,Better Worker Attendance Systems
-              </h3></body></html>"  , width=700, height=100)
+
                 
                 
 components.html("<html><body><h3>The Advantages of Face Recognition Technology Improved Public Security , Fast and Non-Invasive Identity Verification ,Better Worker Attendance Systems
