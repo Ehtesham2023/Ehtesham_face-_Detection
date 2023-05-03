@@ -22,6 +22,11 @@ st.header("Security App for Homes")
 # Render the h1 block, contained in a frame of size 700x100.
 components.html("<html><body><h3>The Advantages of Face Recognition Technology Improved Public Security , Fast and Non-Invasive Identity Verification ,Better Worker Attendance Systems
               </h3></body></html>"  , width=700, height=100)
+                
+                
+components.html("<html><body><h3>The Advantages of Face Recognition Technology Improved Public Security , Fast and Non-Invasive Identity Verification ,Better Worker Attendance Systems
+.</h3></body></html>"
+                , width=700, height=100)
 # Another way to use html in streamlit.
 st.markdown("<html><I>Make sure that you have Python 3.6 - Python 3.8 installed.</I><br></html>",
             unsafe_allow_html=True)
